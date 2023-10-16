@@ -1,0 +1,14 @@
+.left-line, .right-line {
+    width: 80px;
+    height: 5px;
+    background-color: #2C3E50;
+    border-radius: 1px;
+}
+button {
+    background-color: #1abc9c;
+
+}
+button:hover {
+    background-color: #1abc !important;
+
+}

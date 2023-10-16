@@ -1,0 +1,15 @@
+.home {
+    background-color: #1abc9c;
+    min-height: 80vh;
+
+}
+.home-body img {
+    width: 200px;
+    height: 200px;
+}
+.left-line, .right-line {
+    width: 80px;
+    height: 5px;
+    background-color: #fff;
+    border-radius: 1px;
+}
